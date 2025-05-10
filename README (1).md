@@ -36,7 +36,7 @@ Paper: A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Se
 
 [Weight] 
 
-Link: https://pan.baidu.com/s/14SJBqFXp-MAOYxHskvFuVg   提取码: gab4 
+Link: https://pan.baidu.com/s/14SJBqFXp-MAOYxHskvFuVg   Extraction code: gab4 
 
 
 
