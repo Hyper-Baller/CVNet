@@ -34,6 +34,11 @@ Paper: Fully convolutional networks for multisource building extraction from an 
 
 Paper: A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection
 
+[Weight]
+Link: https://pan.baidu.com/s/14SJBqFXp-MAOYxHskvFuVg 提取码: gab4 
+
+
+
 ## Start
 
 For training, run the following code in command line.
